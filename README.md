@@ -1,73 +1,82 @@
-# Welcome to your Lovable project
+# Portfolio | Mr. Melvin Philip
 
-## Project info
+A high-performance, interactive developer portfolio built with modern web technologies. This project showcases structured software systems, automation projects, and AI-assisted solutions.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## ✨ Features
 
-## How can I edit this code?
+-   **Dynamic Data Layer**: All content (projects, skills, bio, certificates) is managed via a single configuration file (`src/data/portfolio.ts`), making updates effortless.
+-   **Premium UI/UX**:
+    -   **Dark Mode Aesthetic**: Deep dark theme with cyan/teal accents and glassmorphism effects.
+    -   **Visual Effects**: Custom "Digital Particle" background and interactive confetti animations.
+    -   **Responsive Navigation**: Desktop sidebar with active scrolling indicators and sparkled text effects; efficient top-bar navigation for mobile.
+-   **Certificates Showcase**: Dedicated section with a lightbox/modal view for certificates and a "Show More" expansion feature.
+-   **Performance Optimized**: Built with Vite for lightning-fast reloading and optimized production builds.
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack
 
-**Use Lovable**
+-   **Framework**: [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/)
+-   **Build Tool**: [Vite](https://vitejs.dev/)
+-   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+-   **UI Components**: [Shadcn/ui](https://ui.shadcn.com/) (Radix UI)
+-   **Icons**: [Lucide React](https://lucide.dev/)
+-   **Animations**: `canvas-confetti`
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🚀 Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+-   Node.js (v18+ recommended)
+-   npm or pnpm
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/MaxMelvin/Portfolio.git
+    cd Portfolio
+    ```
 
-Follow these steps:
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+3.  Start the development server:
+    ```bash
+    npm run dev
+    ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+4.  Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📂 Project Structure
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+src/
+├── components/         # UI Components (Hero, Projects, Certificates, etc.)
+├── data/              
+│   └── portfolio.ts    # centralized data file (Edit this to update content!)
+├── pages/              # Main page views
+├── index.css           # Global styles and Tailwind configuration
+└── main.tsx            # Entry point
+public/
+└── certificates/       # Certificate images/PDFs
 ```
 
-**Edit a file directly in GitHub**
+## 🎨 Customization
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+To update your portfolio content, simply modify the `src/data/portfolio.ts` file. 
 
-**Use GitHub Codespaces**
+Example configuration:
+```typescript
+export const portfolioData = {
+    personal: {
+        name: "Mr. Melvin Philip",
+        // ...
+    },
+    // ...
+};
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📄 License
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project is open source and available under the [MIT License](LICENSE).
