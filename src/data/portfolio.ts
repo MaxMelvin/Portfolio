@@ -42,8 +42,8 @@ export const portfolioData: PortfolioData = {
     // ... existing personal, social, etc ...
     personal: {
         name: "Mr. Melvin Philip",
-        tagline: "Intelligent Systems Developer | Automation, Dashboards & AI-Assisted Solutions",
-        bio: "I design and build structured software systems that transform complex data into clear, actionable insights. My focus is on automation, analytics dashboards, and AI-assisted decision platforms using Python and modern web technologies. I approach problems from a systems perspective, emphasizing clarity, scalability, and real-world impact.",
+        tagline: "Systems Engineer | Architecting Intelligent Automation & AI-Driven Intelligence",
+        bio: "I specialize in engineering high-performance software systems that converge automation, data analytics, and artificial intelligence. My work focuses on designing scalable architectures—from RAG-based decision engines to interactive operational dashboards—that transform complex datasets into clear, strategic assets. With a foundation in Python and modern full-stack technologies, I build solutions that prioritize logical structure, operational efficiency, and user-centric clarity.",
         photo: "/portfolio.png",
         location: "India",
     },
