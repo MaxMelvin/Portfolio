@@ -6,41 +6,44 @@
 
 @layer base {
   :root {
-    --background: 220 20% 6%;
-    --foreground: 210 20% 92%;
+    /* Premium Deep Dark Theme */
+    --background: 240 10% 4%;
 
-    --card: 220 18% 10%;
-    --card-foreground: 210 20% 92%;
+    --foreground: 0 0% 98%;
 
-    --popover: 220 18% 10%;
-    --popover-foreground: 210 20% 92%;
+    --card: 240 10% 6%;
+    --card-foreground: 0 0% 98%;
 
-    --primary: 174 62% 47%;
-    --primary-foreground: 220 20% 6%;
+    --popover: 240 10% 6%;
+    --popover-foreground: 0 0% 98%;
 
-    --secondary: 220 16% 14%;
-    --secondary-foreground: 210 20% 85%;
+    --primary: 180 100% 50%;
+    /* Cyan/Teal glow */
+    --primary-foreground: 240 10% 4%;
 
-    --muted: 220 14% 18%;
-    --muted-foreground: 215 15% 55%;
+    --secondary: 240 6% 12%;
+    --secondary-foreground: 0 0% 98%;
 
-    --accent: 174 62% 47%;
-    --accent-foreground: 220 20% 6%;
+    --muted: 240 4% 16%;
+    --muted-foreground: 240 5% 65%;
 
-    --destructive: 0 62% 50%;
-    --destructive-foreground: 210 40% 98%;
+    --accent: 180 100% 50%;
+    --accent-foreground: 240 10% 4%;
 
-    --border: 220 14% 16%;
-    --input: 220 14% 16%;
-    --ring: 174 62% 47%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
 
-    --radius: 0.5rem;
+    --border: 240 6% 16%;
+    --input: 240 6% 16%;
+    --ring: 180 100% 50%;
+
+    --radius: 1rem;
 
     /* Custom tokens */
-    --gradient-card: linear-gradient(135deg, hsl(220 18% 10%) 0%, hsl(220 18% 8%) 100%);
-    --gradient-accent: linear-gradient(135deg, hsl(174 62% 47%) 0%, hsl(174 50% 38%) 100%);
-    --shadow-card: 0 4px 24px -4px hsl(0 0% 0% / 0.3);
-    --shadow-glow: 0 0 40px -10px hsl(174 62% 47% / 0.3);
+    --gradient-card: linear-gradient(135deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.01) 100%);
+    --gradient-accent: linear-gradient(135deg, #00f2ea 0%, #0080ff 100%);
+    --shadow-card: 0 8px 32px -8px rgba(0, 0, 0, 0.5);
+    --shadow-glow: 0 0 50px -10px rgba(0, 242, 234, 0.2);
   }
 
   * {
@@ -52,11 +55,21 @@
     font-family: 'Inter', system-ui, sans-serif;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  main {
+    @apply lg:pl-20 xl:pl-64 transition-[padding] duration-300;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @apply font-semibold tracking-tight;
   }
 
-  code, .font-mono {
+  code,
+  .font-mono {
     font-family: 'JetBrains Mono', monospace;
   }
 }
@@ -109,6 +122,7 @@
       opacity: 0;
       transform: translateY(8px);
     }
+
     to {
       opacity: 1;
       transform: translateY(0);
