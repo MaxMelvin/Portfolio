@@ -1,90 +1,27 @@
-# Portfolio / Mr. Melvin Philip
+# 💫 About Me:
+🔭 I’m currently working on<br>AI-powered, system-level projects including a Curriculum–Industry Alignment Platform, Smart Inventory Management Systems, and applied RAG-based applications that solve real operational problems rather than demo-only use cases.<br><br>👯 I’m looking to collaborate on<br>Backend-heavy projects involving Python, MySQL, system automation, AI integration (RAG/LLMs), and tools that sit close to real users—education, inventory, accessibility, or operations.<br><br>🤝 I’m looking for help with<br>Production-grade architecture, scaling backend systems, deployment practices, and turning solid projects into reliable, maintainable software used beyond localhost.<br><br>🌱 I’m currently learning<br>Advanced backend design, database optimization, AI system pipelines (RAG, agents, tool calling), and how to move from “project works” to “system survives in the real world.”<br><br>💬 Ask me about<br>Python, MySQL, Tkinter-based systems, automation workflows, AI project architecture, RAG pipelines, and building end-to-end applications from scratch.<br><br>⚡ Fun fact<br>I don’t enjoy building toy projects—I build systems because I want them to be used, stressed, and improved, not just showcased.
 
-![Systems Engineer](https://img.shields.io/badge/Role-Systems%20Engineer-00f2ea?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Python-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-> **"Architecting Intelligent Automation & AI-Driven Intelligence."**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/melvin-philip-4ab999323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melvinphilip@karunya.edu.in) 
 
-This repository houses the professional portfolio of **Mr. Melvin Philip**. It serves as a centralized demonstration of capabilities in **Systems Engineering**, **Workflow Automation**, and **AI-Assisted Development**.
+# 💻 Tech Stack:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MaxMelvin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MaxMelvin&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMelvin&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-The application is engineered not just as a static showcase, but as a modular, data-driven platform designed for scalability and high-performance user interaction.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MaxMelvin&theme=jolly&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏗️ System Architecture
-
-The portfolio is built on a modern **Component-Based Architecture**, emphasizing separation of concerns between the data layer and the UI presentation.
-
-### Core Components
-*   **Data Layer (`/src/data`)**: A unified Typescript configuration serving as the single source of truth for all content, ensuring easy maintainability and strict type safety.
-*   **Navigation Engine**: A responsive, state-aware sidebar navigation system that utilizes `IntersectionObservers` for active section tracking.
-*   **Visualization Modules**: Custom-built components for rendering skills, project grids, and certificate validations (including PDF/Image lightboxes).
-*   **Aesthetic Layer**: A "Deep Dark" design system utilizing Tailwind CSS tokens, CSS variables, and GPU-accelerated particle animations (`canvas-confetti`, custom canvas nodes).
-
----
-
-## 🚀 Key Capabilities
-
-### 1. Unified Intelligence Showcase
-Aggregates diverse technical competencies ranging from **RAG Systems** and **LLM Integration** to **Embedded IoT Solutions**.
-
-### 2. Verified Credentials System
-Includes a robust certification verification module that allows visitors to inspect high-resolution credentials (Images/PDFs) via seamless modal overlays.
-
-### 3. Interactive UX/UI
-*   **Glassmorphism**: Advanced backdrop filters and gradient borders for a premium aesthetic.
-*   **Micro-Interactions**: Hover states, scroll-triggered animations, and tactile feedback.
-*   **Particles Engine**: A custom background network effect representing connected systems.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MaxMelvin&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MaxMelvin&icon=0&color=12)](https://visitcount.itsvg.in)
 
-## 🛠️ Technology Stack
-
-| Domain | Technology | Usage |
-| :--- | :--- | :--- |
-| **Frontend** | **React 18 + TypeScript** | Component logic and type safety |
-| **Build System** | **Vite** | HMR and optimized production bundling |
-| **Styling** | **Tailwind CSS** | Utility-first styling and design tokens |
-| **UI Library** | **Shadcn/UI + Radix** | Accessible, headless UI components |
-| **Icons** | **Lucide React** | Consistent iconography |
-| **Motion** | **Canvas API** | High-performance background effects |
-
----
-
-## 📂 Installation & Setup
-
-To deploy or run this system locally for review:
-
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/MaxMelvin/Portfolio.git
-    cd Portfolio
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    # or
-    pnpm install
-    ```
-
-3.  **Execute Development Environment**
-    ```bash
-    npm run dev
-    ```
-    Access the system at `http://localhost:8080`.
-
----
-
-## 📬 Contact
-
-**Mr. Melvin Philip**
-*   **Role**: Systems Engineer
-*   **Focus**: Automation, Dashboards, AI Systems
-*   **Email**: [melvinphilip089@gmail.com](mailto:melvinphilip089@gmail.com)
-*   **LinkedIn**: [Profile](https://www.linkedin.com/in/melvin-philip-4ab999323)
-
----
-
-&copy; 2024 Mr. Melvin Philip. All Rights Reserved.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
